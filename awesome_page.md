@@ -8,3 +8,5 @@ What makes this page awesome? We'll tell you!
 
 Here's a picture of us working together!
 ![Screenshot](Partner_Screenshot.jpg "Screenshot")
+
+Making a different change!
